@@ -4,3 +4,4 @@
  certifications
 
  - [x] Role Playing Game (RPG - Dragon Repeller)
+ - [x] Calorie Counter
