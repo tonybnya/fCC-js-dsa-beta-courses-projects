@@ -6,3 +6,4 @@
  - [x] Role Playing Game (RPG - Dragon Repeller)
  - [x] Calorie Counter
  - [x] Music Player
+ - [x] Date Fprmatter
