@@ -6,6 +6,7 @@
  - [x] Role Playing Game (RPG - Dragon Repeller)
  - [x] Calorie Counter
  - [x] Music Player
- - [x] Date Fprmatter
+ - [x] Date Formatter
  - [x] Football Team Cards
  - [x] Todo App
+ - [x] Decimal to Binary Converter
