@@ -10,3 +10,4 @@
  - [x] Football Team Cards
  - [x] Todo App
  - [x] Decimal to Binary Converter
+ - [x] Number Sorter
