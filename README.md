@@ -12,3 +12,4 @@
  - [x] Decimal to Binary Converter
  - [x] Number Sorter
  - [x] Statistics Calculator
+ - [x] Spreadsheet
