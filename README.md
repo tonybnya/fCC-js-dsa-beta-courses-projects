@@ -13,3 +13,4 @@
  - [x] Number Sorter
  - [x] Statistics Calculator
  - [x] Spreadsheet
+ - [x] Spam Filter
