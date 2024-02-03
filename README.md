@@ -14,3 +14,4 @@
  - [x] Statistics Calculator
  - [x] Spreadsheet
  - [x] Spam Filter
+ - [x] Shopping Cart
