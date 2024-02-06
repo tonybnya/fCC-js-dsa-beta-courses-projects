@@ -15,3 +15,4 @@
  - [x] Spreadsheet
  - [x] Spam Filter
  - [x] Shopping Cart
+ - [x] Dice Game
