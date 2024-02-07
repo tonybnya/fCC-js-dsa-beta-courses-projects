@@ -15,5 +15,5 @@
  - [x] Spreadsheet
  - [x] Spam Filter
  - [x] Shopping Cart
- - [ ] Platformer Game
+ - [x] Platformer Game
  - [x] Dice Game
